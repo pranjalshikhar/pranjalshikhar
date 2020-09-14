@@ -22,9 +22,9 @@ I am Pranjal Shikhar Sinha, people call me Onyx, currently pursuing me bachelor'
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <summary>📈 My GitHub Stats</summary>
+<br>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=pranjalshikhar&show_icons=true&theme=gotham" alt="pranjalshikhar" />
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalshikhar&hide=TeX&layout=compact)
 
 
