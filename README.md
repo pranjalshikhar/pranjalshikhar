@@ -1,16 +1,9 @@
 ### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am **Pranjal Shikhar Sinha**!! 😈
-<a href="https://twitter.com/pranjalshikhar">
-  <img align="left" alt="Pranjal Shikhar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/pranjalshikhar/">
-  <img align="left" alt="Pranjal's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/pollymorfism">
-  <img align="left" alt="Pranjal's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/pollymorfism/">
-  <img align="left" alt="Pranjal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-pranjalshikhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjalshikhar/)](https://www.linkedin.com/in/pranjalshikhar/)
+[![Twitter Badge](https://img.shields.io/badge/-pranjalshikhar-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/pranjalshikhar/)](https://www.twitter.com/pranjalshikhar/)
+[![Telegram Badge](https://img.shields.io/badge/-pollymorfism-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/pollymorfism/)](https://t.me/pollymorfism/)
+[![Instagram Badge](https://img.shields.io/badge/-pollymorfism-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pollymorfism/)](https://www.instagram.com/pollymorfism/)
+[![Gmail Badge](https://img.shields.io/badge/-shikhar.pranjal3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shikhar.pranjal3@gmail.com)](mailto:shikhar.pranjal3@gmail.com)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pranjalshikhar.pranjalshikhar)
 
