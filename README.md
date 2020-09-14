@@ -17,7 +17,7 @@
 <br />
 
 **Talking about Personal Stuffs:**
-- :computer: I code using Python
+- :computer: I code using Python and C++.
 - 🌱 I’m currently studying at AMITY UNIVERSITY, LUCKNOW CAMPUS.
 - 🗣 I’m also the fond of Data Science Community.
 - 🤔 I’m looking for help with Data [Science, Structures, Base].
