@@ -24,7 +24,7 @@ I am Pranjal Shikhar Sinha, people call me Onyx, currently pursuing me bachelor'
 <summary>📈 My GitHub Stats</summary>
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjalshikhar&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalshikhar&hide=TeX&layout=compact)
 
 
