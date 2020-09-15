@@ -4,7 +4,7 @@ I am Pranjal Shikhar Sinha, people call me Onyx, currently pursuing me bachelor'
 
 [![Linkedin Badge](https://img.shields.io/badge/-pranjalshikhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjalshikhar/)](https://www.linkedin.com/in/pranjalshikhar/)
 [![Instagram Badge](https://img.shields.io/badge/-pollymorfism-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pollymorfism/)](https://www.instagram.com/pollymorfism/)
-[![Twitter Badge](https://img.shields.io/badge/-pranjalshikhar-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/pranjalshikhar/)](https://www.twitter.com/pranjalshikhar/)
+[![Twitter Badge](https://img.shields.io/badge/-pranjalshikhar-indigo?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/pranjalshikhar/)](https://www.twitter.com/pranjalshikhar/)
 [![Telegram Badge](https://img.shields.io/badge/-pollymorfism-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/pollymorfism/)](https://t.me/pollymorfism/)
 [![Gmail Badge](https://img.shields.io/badge/-shikhar.pranjal3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shikhar.pranjal3@gmail.com)](mailto:shikhar.pranjal3@gmail.com)
 
