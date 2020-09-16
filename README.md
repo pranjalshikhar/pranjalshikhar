@@ -21,6 +21,7 @@ I am Pranjal Shikhar Sinha, people call me Onyx, currently pursuing me bachelor'
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://hidenobu-tokuda.com/wp-content/uploads/2019/05/heroku-logo-solid-gradient.png"></code>
+<code><imh height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
 
 <summary>📈 My GitHub Stats</summary>
 <br>
