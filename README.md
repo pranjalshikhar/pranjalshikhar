@@ -31,4 +31,4 @@ I am Pranjal Shikhar Sinha, people call me Onyx, currently pursuing me bachelor'
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalshikhar&hide=TeX&layout=compact)
 
 
-
+**If you liked my work, don’t forget to ⭐ star the repo to show your support.**
