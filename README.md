@@ -1,6 +1,6 @@
 ### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Fancy seeing you here!!! 😈
 
-I am Pranjal Shikhar Sinha, people call me Onyx, currently pursuing me bachelor's degree majoring in computer science from [Amity University](https://www.amity.edu/lucknow/). I am a tech enthusiast and fond of Data Science Community. I'm also open for collaborations related to project/community. I’m looking for help with Data [Science, Structures, Base]. Find out more about me & feel free to connect with me here:
+I am Pranjal Shikhar Sinha, people call me pollymorfism, currently pursuing me bachelor's degree majoring in computer science from [Amity University](https://www.amity.edu/lucknow/). I am a tech enthusiast and fond of Data Science Community. I'm also open for collaborations related to project/community. I’m looking for help with Data [Science, Structures, Base]. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-pranjalshikhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjalshikhar/)](https://www.linkedin.com/in/pranjalshikhar/)
 [![Instagram Badge](https://img.shields.io/badge/-pollymorfism-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pollymorfism/)](https://www.instagram.com/pollymorfism/)
