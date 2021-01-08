@@ -10,7 +10,7 @@ I am Pranjal Shikhar Sinha, people call me <i>pollymorfism</i>, currently pursui
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pranjalshikhar.pranjalshikhar)
 
-<img align="center" alt="GIF" src="https://i.makeagif.com/media/7-02-2018/gjbqpC.gif" />
+<img align="center" alt="GIF" src="https://i.makeagif.com/media/7-02-2018/gjbqpC.gif?raw=true" width=500 />
 <!-- <a href="/gif/cool-gif-for-boys-gjbqpC" title="Cool gif for boys"><img src="https://i.makeagif.com/media/7-02-2018/gjbqpC.gif" alt="Cool gif for boys"></a><div style="font-size:11px;">make <a href="/" title="make a gif">action GIFs</a> like this at MakeaGif</div> -->
   
 **Languages and Tools:**  
