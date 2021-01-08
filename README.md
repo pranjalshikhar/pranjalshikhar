@@ -10,7 +10,7 @@ I am Pranjal Shikhar Sinha, people call me <i>pollymorfism</i>, currently pursui
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pranjalshikhar.pranjalshikhar)
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/109epNnxnLTMha/giphy.gif?raw=true" />
+<img align="center" alt="GIF" src="https://makeagif.com/i/gjbqpC" />
   
 **Languages and Tools:**  
 
