@@ -32,5 +32,9 @@ I am Pranjal Shikhar Sinha, people call me <i>pollymorfism</i>, currently pursui
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjalshikhar&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalshikhar&hide=TeX&layout=compact)
 
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=pranjalshikhar&hide_title=true&hide_border=true&langs_count=5)
+
 
 **If you liked my work, don’t forget to ⭐ star the repo to show your support.**
