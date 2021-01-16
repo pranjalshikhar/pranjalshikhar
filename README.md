@@ -29,8 +29,8 @@ I am Pranjal Shikhar Sinha, people call me <i>pollymorfism</i>, currently pursui
 <summary>📈 My GitHub Stats</summary>
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjalshikhar&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalshikhar&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjalshikhar&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalshikhar&hide=TeX&layout=compact&theme=tokyonight)
 
 [![Pranjal's github activity graph](https://activity-graph.herokuapp.com/graph?username=pranjalshikhar&theme=dracula)](https://github.com/pranjalshikhar/github-readme-activity-graph)
 
