@@ -32,7 +32,7 @@ I am Pranjal Shikhar Sinha, people call me <i>pollymorfism</i>, currently pursui
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjalshikhar&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalshikhar&hide=TeX&layout=compact)
 
-[![Pranjal's github activity graph](https://activity-graph.herokuapp.com/graph?username=pranjalshikhar&theme=dracula)](https://github.com/pranjalshikhar/github-readme-activity-graph)
+[![Pranjal's github activity graph](https://activity-graph.herokuapp.com/graph?username=pranjalshikhar&theme=GitHub)](https://github.com/pranjalshikhar/github-readme-activity-graph)
 
 
 **If you liked my work, don’t forget to ⭐ star the repo to show your support.**
