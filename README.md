@@ -15,11 +15,11 @@ I am Pranjal Shikhar Sinha, people call me <i>pollymorfism</i>, currently pursui
 <!-- <a href="/gif/cool-gif-for-boys-gjbqpC" title="Cool gif for boys"><img src="https://i.makeagif.com/media/7-02-2018/gjbqpC.gif" alt="Cool gif for boys"></a><div style="font-size:11px;">make <a href="/" title="make a gif">action GIFs</a> like this at MakeaGif</div> -->
 <table>
   <tr>
-    <td> <img align="middle" alt="GIF" src="https://media.giphy.com/media/pI2paNxecnUNW/giphy.gif" /> </td>
-    <td> <img align="middle" alt="GIF" src="https://media.giphy.com/media/IWvuFVQICQIr6/giphy.gif" /> </td>
+    <td> <img align="middle" alt="GIF" src="https://media.giphy.com/media/pI2paNxecnUNW/giphy.gif" width="1000" height="400"/> </td>
+    <td> <img align="middle" alt="GIF" src="https://media.giphy.com/media/IWvuFVQICQIr6/giphy.gif" width="1000" height="400"/> </td>
   </tr>
  </table>
-  
+
 **Languages and Tools:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
