@@ -11,8 +11,14 @@ I am Pranjal Shikhar Sinha, people call me <i>pollymorfism</i>, currently pursui
 ![](https://visitor-badge.glitch.me/badge?page_id=pranjalshikhar.pranjalshikhar)
 
 <!-- <img align="middle" alt="GIF" src="https://i.makeagif.com/media/7-02-2018/gjbqpC.gif"/> -->
-<img align="middle" alt="GIF" src="https://media.giphy.com/media/dJHaTbNQOjYMWdHSTG/giphy.gif" class="center"/> 
+<!-- <img align="middle" alt="GIF" src="https://media.giphy.com/media/dJHaTbNQOjYMWdHSTG/giphy.gif" class="center"/>  -->
 <!-- <a href="/gif/cool-gif-for-boys-gjbqpC" title="Cool gif for boys"><img src="https://i.makeagif.com/media/7-02-2018/gjbqpC.gif" alt="Cool gif for boys"></a><div style="font-size:11px;">make <a href="/" title="make a gif">action GIFs</a> like this at MakeaGif</div> -->
+<table>
+  <tr>
+    <td> <img align="middle" alt="GIF" src="https://media.giphy.com/media/pI2paNxecnUNW/giphy.gif" /> </td>
+    <td> <img align="middle" alt="GIF" src="https://media.giphy.com/media/IWvuFVQICQIr6/giphy.gif" /> </td>
+  </tr>
+ </table>
   
 **Languages and Tools:**  
 
