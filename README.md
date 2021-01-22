@@ -26,13 +26,15 @@ Find out more about me & feel free to connect with me here: <br>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="30" src="https://toppng.com/uploads/preview/vscode-visual-studio-code-11562929010rwlaaoeohl.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/google-arcore-2038787-1721677.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbASdm2qmISAZ4--UycxGGRc4WMoTIxrz_dIwNomd_qu9xwR4gIxcZgANqr4R8ToGSdzC9d2jrFtxObSjTWhFWBxpvC-Ka5EXc0g&usqp=CAU&ec=45761792"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://hidenobu-tokuda.com/wp-content/uploads/2019/05/heroku-logo-solid-gradient.png"></code>
 <code><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
+<code><img height="30" src="https://toppng.com/uploads/preview/vscode-visual-studio-code-11562929010rwlaaoeohl.png"></code>
 <code><img height="30" src="https://w7.pngwing.com/pngs/911/748/png-transparent-unity-technologies-adobe-flash-computer-software-technology-unity-emblem-electronics-company.png"></code>
+<code><img height="30" src="https://miro.medium.com/max/750/1*XEzukXOEUudcXkyrouu3vw.jpeg"></code>
 
 <summary>📈 My GitHub Stats</summary>
 <br>
