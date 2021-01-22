@@ -1,24 +1,24 @@
-### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Fancy seeing you here!!! 😈
+<img src="https://github.com/pranjalshikhar/pranjalshikhar/blob/master/image.jpg" />
 
-I am Pranjal Shikhar Sinha, people call me <i>pollymorfism</i>, currently pursuing me bachelor's degree majoring in computer science from [Amity University](https://www.amity.edu/lucknow/). I am a tech enthusiast and fond of Data Science Community. I'm also open for collaborations related to project/community. I’m looking for help with Data [Science, Structures, Base]. Find out more about me & feel free to connect with me here:
-
+I am Pranjal Shikhar Sinha, people call me <i>pollymorfism</i>, I'm a pre-final year student pursuing Bachelors's in Computer Science 🎓 from [Amity University](https://www.amity.edu/lucknow/) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Machine Learning & Augmented Reality 🕸️ and working on my Data Structures and Algorithms 🤓. <br> <br>
+Find out more about me & feel free to connect with me here: <br>
 [![Linkedin Badge](https://img.shields.io/badge/-pranjalshikhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjalshikhar/)](https://www.linkedin.com/in/pranjalshikhar/)
 [![Instagram Badge](https://img.shields.io/badge/-pollymorfism-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pollymorfism/)](https://www.instagram.com/pollymorfism/)
 [![Twitter Badge](https://img.shields.io/badge/-pranjalshikhar-indigo?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/pranjalshikhar/)](https://www.twitter.com/pranjalshikhar/)
 [![Telegram Badge](https://img.shields.io/badge/-pollymorfism-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/pollymorfism/)](https://t.me/pollymorfism/)
 [![Gmail Badge](https://img.shields.io/badge/-shikhar.pranjal3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shikhar.pranjal3@gmail.com)](mailto:shikhar.pranjal3@gmail.com)
 
-![](https://visitor-badge.glitch.me/badge?page_id=pranjalshikhar.pranjalshikhar)
+### Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=pranjalshikhar.pranjalshikhar)
 
-<!-- <img align="middle" alt="GIF" src="https://i.makeagif.com/media/7-02-2018/gjbqpC.gif"/> -->
-<!-- <img align="middle" alt="GIF" src="https://media.giphy.com/media/dJHaTbNQOjYMWdHSTG/giphy.gif" class="center"/>  -->
-<!-- <a href="/gif/cool-gif-for-boys-gjbqpC" title="Cool gif for boys"><img src="https://i.makeagif.com/media/7-02-2018/gjbqpC.gif" alt="Cool gif for boys"></a><div style="font-size:11px;">make <a href="/" title="make a gif">action GIFs</a> like this at MakeaGif</div> -->
-<table>
-  <tr>
-    <td> <img align="middle" alt="GIF" src="https://media.giphy.com/media/pI2paNxecnUNW/giphy.gif" width="500" height="300"/> </td>
-    <td> <img align="middle" alt="GIF" src="https://media.giphy.com/media/IWvuFVQICQIr6/giphy.gif" width="500" height="300"/> </td>
-  </tr>
- </table>
+<img align="right" height="250" width="375" alt="" src="https://github.com/pranjalshikhar/pranjalshikhar/blob/master/coder.gif" />
+
+### Talking about Personal Stuffs:
+
+- 🛠 &nbsp; I’m currently working on Kotlin and ARCore.
+- 🚀 &nbsp; I’m currently learning Machine Learning Enthusiast.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/pranjalshikhar).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/pranjalshikhar/pranjalshikhar/issues/2)! I am happy to help.
+- 👾 &nbsp; Fun fact: I can do this all day! 
 
 **Languages and Tools:**  
 
@@ -26,13 +26,13 @@ I am Pranjal Shikhar Sinha, people call me <i>pollymorfism</i>, currently pursui
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="30" src="https://toppng.com/uploads/preview/vscode-visual-studio-code-11562929010rwlaaoeohl.png"></code>
+<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/google-arcore-2038787-1721677.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://hidenobu-tokuda.com/wp-content/uploads/2019/05/heroku-logo-solid-gradient.png"></code>
 <code><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
+<code><img height="30" src="https://w7.pngwing.com/pngs/911/748/png-transparent-unity-technologies-adobe-flash-computer-software-technology-unity-emblem-electronics-company.png"></code>
 
 <summary>📈 My GitHub Stats</summary>
 <br>
