@@ -17,7 +17,7 @@ Find out more about me & feel free to connect with me here: <br>
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working on Kotlin and ARCore.
-- 🚀 &nbsp; I’m currently learning Machine Learning Enthusiast.
+- 🚀 &nbsp; I’m currently in Data Science stuffs.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/pranjalshikhar).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/pranjalshikhar/pranjalshikhar/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: I can do this all day! 
