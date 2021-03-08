@@ -48,4 +48,4 @@ Find out more about me & feel free to connect with me here: <br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalshikhar"></p>
 
 
-**If you liked my work, don’t forget to ⭐ star the repo to show your support.**
+<p align="center"><b>If you liked my work, don’t forget to ⭐ star the repo to show your support.</b></p>
