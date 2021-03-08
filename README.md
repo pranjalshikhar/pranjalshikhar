@@ -43,7 +43,7 @@ Find out more about me & feel free to connect with me here: <br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjalshikhar&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalshikhar&hide=TeX&layout=compact&theme=tokyonight)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=pranjalshikhar)
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalshikhar"></p>
 
 
 **If you liked my work, don’t forget to ⭐ star the repo to show your support.**
