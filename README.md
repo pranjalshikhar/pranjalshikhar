@@ -2,12 +2,10 @@
 
 I am Pranjal Shikhar Sinha, people call me <i>pollymorfism</i>, I'm a pre-final year student pursuing Bachelors's in Computer Science 🎓 from [Amity University](https://www.amity.edu/lucknow/) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Machine Learning & Augmented Reality 🕸️ and working on my Data Structures and Algorithms 🤓. <br> <br>
 Find out more about me & feel free to connect with me here: <br>
-[![Linkedin Badge](https://img.shields.io/badge/-pranjalshikhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjalshikhar/)](https://www.linkedin.com/in/pranjalshikhar/)
-[![Instagram Badge](https://img.shields.io/badge/-pollymorfism-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pollymorfism/)](https://www.instagram.com/pollymorfism/)
-[![Twitter Badge](https://img.shields.io/badge/-pranjalshikhar-indigo?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/pranjalshikhar/)](https://www.twitter.com/pranjalshikhar/)
-[![Medium Badge](https://img.shields.io/badge/-pranjalshikhar-black?style=flat-square&logo=Medium&logoColor=white&link=https://www.medium.com/@pranjalshikhar/)](https://www.medium.com/@pranjalshikhar/)
-[![Telegram Badge](https://img.shields.io/badge/-pollymorfism-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/pollymorfism/)](https://t.me/pollymorfism/)
+<a href="https://www.linkedin.com/in/pranjalshikhar"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://www.twitter.com/pranjalshikhar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 [![Gmail Badge](https://img.shields.io/badge/-shikhar.pranjal3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shikhar.pranjal3@gmail.com)](mailto:shikhar.pranjal3@gmail.com)
+<a href="https://www.medium.com/@pranjalshikhar/)](https://www.medium.com/@pranjalshikhar/"><img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v2.png"/></a>
 
 
 ### Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=pranjalshikhar.pranjalshikhar)
