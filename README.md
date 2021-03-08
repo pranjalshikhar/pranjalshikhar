@@ -4,8 +4,8 @@ I am Pranjal Shikhar Sinha, people call me <i>pollymorfism</i>, I'm a pre-final 
 Find out more about me & feel free to connect with me here: <br>
 <a href="https://www.linkedin.com/in/pranjalshikhar"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="https://www.twitter.com/pranjalshikhar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-[![Gmail Badge](https://img.shields.io/badge/-shikhar.pranjal3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shikhar.pranjal3@gmail.com)](mailto:shikhar.pranjal3@gmail.com)
 <a href="https://www.medium.com/@pranjalshikhar/)](https://www.medium.com/@pranjalshikhar/"><img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v2.png"/></a>
+<a href="mailto:shikhar.pranjal3@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-login.png"/></a>
 
 
 ### Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=pranjalshikhar.pranjalshikhar)
