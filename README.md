@@ -1,6 +1,6 @@
 <img src="https://github.com/pranjalshikhar/pranjalshikhar/blob/master/image.jpg" />
 
-/*I am Pranjal Shikhar Sinha, people call me <i>pollymorfism</i>, I'm a pre-final year student pursuing Bachelors's in Computer Science 🎓 from [Amity University](https://www.amity.edu/lucknow/) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Machine Learning & Augmented Reality 🕸️ and working on my Data Structures and Algorithms 🤓. <br> <br>*/
+<!--I am Pranjal Shikhar Sinha, people call me <i>pollymorfism</i>, I'm a pre-final year student pursuing Bachelors's in Computer Science 🎓 from [Amity University](https://www.amity.edu/lucknow/) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Machine Learning & Augmented Reality 🕸️ and working on my Data Structures and Algorithms 🤓. <br> <br> -->
 Find out more about me & feel free to connect with me here: <br>
 <a href="https://www.linkedin.com/in/pranjalshikhar"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="https://www.twitter.com/pranjalshikhar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
