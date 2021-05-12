@@ -15,7 +15,7 @@ Find out more about me & feel free to connect with me here: <br>
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working on Web Dev and ARCore.
-- 🚀 &nbsp; I’m currently in Data Science stuffs.
+- 🚀 &nbsp; I’m currently in cool stuffs.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/pranjalshikhar).
 - 💬 &nbsp; Ask me about anything! I am happy to help.
 - 👾 &nbsp; Fun fact: I can do this all day! 
