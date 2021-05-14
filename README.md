@@ -93,7 +93,7 @@ Find out more about me & feel free to connect with me here: <br>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+        <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg">
     </td>
 </tr>
 </table>
