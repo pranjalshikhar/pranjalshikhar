@@ -79,7 +79,7 @@ Find out more about me & feel free to connect with me here: <br>
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
+        <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" width="60">
