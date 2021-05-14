@@ -11,7 +11,8 @@ Find out more about me & feel free to connect with me here: <br>
 
 ### Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=pranjalshikhar.pranjalshikhar)
 
-<img align="right" height="250" width="375" alt="" src="https://github.com/pranjalshikhar/pranjalshikhar/blob/master/coder.gif" />
+<!--<img align="right" height="250" width="375" alt="" src="https://github.com/pranjalshikhar/pranjalshikhar/blob/master/coder.gif" />-->
+<img align="right" height="350" width="350" alt="" src="https://www.freecodecamp.org/news/content/images/size/w2000/2019/07/goku-learning-react-2.png" />
 
 ### Talking about Personal Stuffs:
 
