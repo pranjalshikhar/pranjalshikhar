@@ -24,25 +24,6 @@ Find out more about me & feel free to connect with me here: <br>
 
 **Languages and Tools:**  
 
-<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/google-arcore-2038787-1721677.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbASdm2qmISAZ4--UycxGGRc4WMoTIxrz_dIwNomd_qu9xwR4gIxcZgANqr4R8ToGSdzC9d2jrFtxObSjTWhFWBxpvC-Ka5EXc0g&usqp=CAU&ec=45761792"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://hidenobu-tokuda.com/wp-content/uploads/2019/05/heroku-logo-solid-gradient.png"></code>
-<code><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
-<code><img height="30" src="https://toppng.com/uploads/preview/vscode-visual-studio-code-11562929010rwlaaoeohl.png"></code>
-<code><img height="30" src="https://w7.pngwing.com/pngs/911/748/png-transparent-unity-technologies-adobe-flash-computer-software-technology-unity-emblem-electronics-company.png"></code>
-<code><img height="30" src="https://miro.medium.com/max/750/1*XEzukXOEUudcXkyrouu3vw.jpeg"></code> -->
-
 <table width="100">
 <tr>
     <td align='center' width="190">
@@ -94,6 +75,23 @@ Find out more about me & feel free to connect with me here: <br>
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
     </td>
 </tr>
 </table>
