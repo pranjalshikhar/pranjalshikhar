@@ -104,6 +104,8 @@ Find out more about me & feel free to connect with me here: <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalshikhar&hide=TeX&layout=compact&">
 </p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalshikhar"></p>
+<br>
+<figure><embed src="https://wakatime.com/share/@4e561f6a-44a1-492f-8b79-1a4300a4f5e6/70999eb5-762d-4baf-a189-dd83251cff6f.svg"></embed></figure>
 
 
 <p align="center"><b>If you liked my work, don’t forget to ⭐ star the repo to show your support.</b></p>
