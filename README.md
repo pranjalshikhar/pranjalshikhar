@@ -45,7 +45,7 @@ Find out more about me & feel free to connect with me here: <br>
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg" width="120">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
