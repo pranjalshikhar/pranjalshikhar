@@ -101,7 +101,7 @@ Find out more about me & feel free to connect with me here: <br>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=pranjalshikhar&count_private=true&show_icons=true&include_all_commits=true&">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalshikhar&hide=&layout=compact&langs_count=10&">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalshikhar&hide=c%23,jupyter%20notebook,html&layout=compact&langs_count=10&">
 </p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalshikhar"></p>
 <br>
