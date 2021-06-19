@@ -31,7 +31,7 @@ Find out more about me & feel free to connect with me here: <br>
         width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg">
     </td>
     <td align='center' width="190">
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
@@ -45,7 +45,7 @@ Find out more about me & feel free to connect with me here: <br>
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg" width="120">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
@@ -101,9 +101,11 @@ Find out more about me & feel free to connect with me here: <br>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=pranjalshikhar&count_private=true&show_icons=true&include_all_commits=true&">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalshikhar&hide=TeX&layout=compact&">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalshikhar&hide=c%23,jupyter%20notebook,html&layout=compact&langs_count=10&">
 </p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalshikhar"></p>
+<br>
+<figure><embed src="https://wakatime.com/share/@4e561f6a-44a1-492f-8b79-1a4300a4f5e6/70999eb5-762d-4baf-a189-dd83251cff6f.svg"></embed></figure>
 
 
 <p align="center"><b>If you liked my work, don’t forget to ⭐ star the repo to show your support.</b></p>
