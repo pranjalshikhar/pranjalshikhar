@@ -1,5 +1,5 @@
 <!--<img src="https://github.com/pranjalshikhar/pranjalshikhar/blob/master/image.jpg" />-->
-<img src="https://raw.githubusercontent.com/pranjalshikhar/pranjalshikhar/master/Goku-1.jpg"/>
+<img src="https://raw.githubusercontent.com/pranjalshikhar/pranjalshikhar/master/sharingan.gif"/>
 
 I am Pranjal Shikhar Sinha, people call me <i>pollymorfism</i>, I'm a pre-final year student pursuing Bachelors's in Computer Science 🎓 from [Amity University](https://www.amity.edu/lucknow/) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development & Augmented Reality 🕸️ and working on my Data Structures and Algorithms 🤓. <br> <br>
 Find out more about me & feel free to connect with me here: <br>
