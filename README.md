@@ -77,7 +77,7 @@ Find out more about me & feel free to connect with me here: <br>
         <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg">
     </td>
 </tr>
-<tr>
+<!--<tr>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
     </td>
@@ -93,7 +93,7 @@ Find out more about me & feel free to connect with me here: <br>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
     </td>
-</tr>
+</tr>-->
 </table>
 
 <summary>📈 My GitHub Stats</summary>
