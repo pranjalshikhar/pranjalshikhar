@@ -1,5 +1,5 @@
 <!--<img src="https://github.com/pranjalshikhar/pranjalshikhar/blob/master/image.jpg" />-->
-<img src="https://raw.githubusercontent.com/pranjalshikhar/pranjalshikhar/master/sharingan.gif"/>
+<p><img src="https://raw.githubusercontent.com/pranjalshikhar/pranjalshikhar/master/sharingan.gif" height="400px"/></p>
 
 I am Pranjal Shikhar Sinha, people call me <i>pollymorfism</i>, I'm a pre-final year student pursuing Bachelors's in Computer Science 🎓 from [Amity University](https://www.amity.edu/lucknow/) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development & Augmented Reality 🕸️ and working on my Data Structures and Algorithms 🤓. <br> <br>
 Find out more about me & feel free to connect with me here: <br>
@@ -77,7 +77,7 @@ Find out more about me & feel free to connect with me here: <br>
         <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg">
     </td>
 </tr>
-<tr>
+<!--<tr>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
     </td>
@@ -93,7 +93,7 @@ Find out more about me & feel free to connect with me here: <br>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
     </td>
-</tr>
+</tr>-->
 </table>
 
 <summary>📈 My GitHub Stats</summary>
