@@ -57,7 +57,7 @@ Find out more about me & feel free to connect with me here: <br>
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg">
     </td>
 </tr>
 <tr>
@@ -65,13 +65,13 @@ Find out more about me & feel free to connect with me here: <br>
         <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
+        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg">
