@@ -45,7 +45,7 @@ Find out more about me & feel free to connect with me here: <br>
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
@@ -68,32 +68,15 @@ Find out more about me & feel free to connect with me here: <br>
         <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/WebRTC_Logo.svg/2560px-WebRTC_Logo.svg.png">
     </td>
 </tr>
-<!--<tr>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
-    </td>
-</tr>-->
 </table>
 
 <summary>📈 My GitHub Stats</summary>
