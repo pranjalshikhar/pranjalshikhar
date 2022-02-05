@@ -1,21 +1,18 @@
 <!--<img src="https://github.com/pranjalshikhar/pranjalshikhar/blob/master/image.jpg" />-->
 <p><img src="https://raw.githubusercontent.com/pranjalshikhar/pranjalshikhar/master/tatakae.jpg"/></p>
-<br> <br>
+
+### Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=pranjalshikhar.pranjalshikhar)
+
+<!--<img align="right" height="250" width="375" alt="" src="https://github.com/pranjalshikhar/pranjalshikhar/blob/master/coder.gif" />-->
 Find out more about me & feel free to connect with me here: <br>
 <a href="https://www.linkedin.com/in/pranjalshikhar"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="https://www.twitter.com/pranjalshikhar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href="https://www.medium.com/@pranjalshikhar/)](https://www.medium.com/@pranjalshikhar/"><img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v2.png"/></a>
 <a href="mailto:shikhar.pranjal3@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-login.png"/></a>
 
-
-### Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=pranjalshikhar.pranjalshikhar)
-
-<!--<img align="right" height="250" width="375" alt="" src="https://github.com/pranjalshikhar/pranjalshikhar/blob/master/coder.gif" />-->
-
-
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on Web Dev and ARCore.
+- 🛠 &nbsp; I’m currently working on Web Dev and Data Structures.
 - 🚀 &nbsp; I’m currently in cool stuffs.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/pranjalshikhar).
 - 💬 &nbsp; Ask me about anything! I am happy to help.
