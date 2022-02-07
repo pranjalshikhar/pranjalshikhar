@@ -79,12 +79,12 @@ Find out more about me & feel free to connect with me here: <br>
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pranjalshikhar&count_private=true&show_icons=true&include_all_commits=true&">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalshikhar&hide=c%23,jupyter%20notebook,html&layout=compact&langs_count=10&">
+<img src="https://github-readme-stats.vercel.app/api?username=pranjalshikhar&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalshikhar&hide=c%23,jupyter%20notebook,html&layout=compact&langs_count=10&theme=github_dark">
 </p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalshikhar"></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=pranjalshikhar&theme=cobalt&date_format=j%20M%5B%20Y%5D&fire=DD3420&border=DDDDDD&dates=DDDDDD&ring=DDDDDD&sideNums=DDDDDD&sideLabels=DDDDDD)"></p>
+
 <br>
-<figure><embed src="https://wakatime.com/share/@4e561f6a-44a1-492f-8b79-1a4300a4f5e6/70999eb5-762d-4baf-a189-dd83251cff6f.svg"></embed></figure>
 
 
 <p align="center"><b>If you liked my work, don’t forget to ⭐ star the repo to show your support.</b></p>
