@@ -1,5 +1,5 @@
 <!--<img src="https://github.com/pranjalshikhar/pranjalshikhar/blob/master/image.jpg" />-->
-<p><img src="https://raw.githubusercontent.com/pranjalshikhar/pranjalshikhar/master/tatakae.jpg"/></p>
+<p><img src="https://raw.githubusercontent.com/pranjalshikhar/pranjalshikhar/master/assets/JS.gif"/></p>
 
 ### Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=pranjalshikhar.pranjalshikhar)
 
