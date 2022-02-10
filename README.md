@@ -9,6 +9,7 @@ Find out more about me & feel free to connect with me here: <br>
 <a href="https://www.twitter.com/pranjalshikhar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href="https://www.medium.com/@pranjalshikhar/)](https://www.medium.com/@pranjalshikhar/"><img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v2.png"/></a>
 <a href="mailto:shikhar.pranjal3@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-login.png"/></a>
+<a href="https://discordapp.com/users/pollymorfism/"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
 
 ### Talking about Personal Stuffs:
 
