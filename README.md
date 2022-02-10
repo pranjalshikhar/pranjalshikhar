@@ -82,7 +82,7 @@ Find out more about me & feel free to connect with me here: <br>
 <img src="https://github-readme-stats.vercel.app/api?username=pranjalshikhar&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=pranjalshikhar&theme=graywhite&date_format=j%20M%5B%20Y%5D">
 </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalshikhar&hide=c%23,jupyter%20notebook,html&layout=compact&langs_count=10&theme=graywhite"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/pranjalshikhar/pranjalshikhar/master/assets/image.jpg"></p>
 
 <br>
 
