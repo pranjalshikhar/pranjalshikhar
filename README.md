@@ -11,6 +11,7 @@ Find out more about me & feel free to connect with me here: <br>
 <a href="mailto:shikhar.pranjal3@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-login.png"/></a>
 <a href="https://discordapp.com/users/pollymorfism/"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
 <a href="https://www.behance.net/pranjalshikhar"><img src="https://img.icons8.com/fluency/48/000000/behance.png"/></a>
+<a href="https://www.instagram.com/pranjal.fig/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 
 ### Talking about Personal Stuffs:
 
