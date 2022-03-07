@@ -25,7 +25,14 @@ Find out more about me & feel free to connect with me here: <br>
 ### Languages and Tools:
 
 <h4>PROGRAMMING</h4>
- <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg, https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="50"><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="50"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="50"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="50"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="50">
+    <div style={display: "flex"}>    
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="50">
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50">
+        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="50">
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="50">
+        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="50">
+    </div>
 
 <!-- <table width="100">
 <tr>
