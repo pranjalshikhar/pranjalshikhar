@@ -4,6 +4,7 @@
 ### Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=pranjalshikhar.pranjalshikhar)
 
 <!--<img align="right" height="250" width="375" alt="" src="https://github.com/pranjalshikhar/pranjalshikhar/blob/master/coder.gif" />-->
+
 Find out more about me & feel free to connect with me here: <br>
 <a href="https://www.linkedin.com/in/pranjalshikhar"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="https://www.twitter.com/pranjalshikhar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
@@ -21,12 +22,16 @@ Find out more about me & feel free to connect with me here: <br>
 - 💬 &nbsp; Ask me about anything! I am happy to help.
 - 👾 &nbsp; Fun fact: **I CAN DO THIS ALL DAY!**
 
-**Languages and Tools:**  
+### Languages and Tools:
 
-<table width="100">
+<h4>PROGRAMMING</h4>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50">
+ <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="50">
+
+<!-- <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" 
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg"
         width="60">
     </td>
     <td align='center' width="190">
@@ -76,7 +81,7 @@ Find out more about me & feel free to connect with me here: <br>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/WebRTC_Logo.svg/2560px-WebRTC_Logo.svg.png">
     </td>
 </tr>
-</table>
+</table> -->
 
 <summary>📈 My GitHub Stats</summary>
 <br>
@@ -87,7 +92,6 @@ Find out more about me & feel free to connect with me here: <br>
 <p align="center"><img src="https://raw.githubusercontent.com/pranjalshikhar/pranjalshikhar/master/assets/image.jpg"></p>
 
 <br>
-
 
 <p align="center"><b>If you liked my work, don’t forget to ⭐ star the repo to show your support.</b></p>
 <!-- <img align="center" height="350" width="350" alt="" src="https://www.freecodecamp.org/news/content/images/size/w2000/2019/07/goku-learning-react-2.png" /> -->
