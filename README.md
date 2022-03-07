@@ -46,8 +46,18 @@ Find out more about me & feel free to connect with me here: <br>
         <img src="https://iconape.com/wp-content/png_logo_vector/next-js-logo.png" width="50">
         <img src="https://miro.medium.com/max/400/1*YI1tt4kGzvea-v4dAhZ90w.png" width="50">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="50">
-        <!-- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"> -->
+    </div>
+
+<h4>FAMILIAR TECHNOLOGY</h4>
+    <div style={display: "flex"}>    
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50">
+        <img src="https://rb.gy/j0gieg" width="50">
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="50">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50">
+        <img src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg" width="50">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50">
+        <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="50">
+        <img src="https://iconape.com/wp-content/png_logo_vector/next-js-logo.png" width="50">
     </div>
 
 <!-- <table width="100">
