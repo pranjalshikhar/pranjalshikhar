@@ -51,7 +51,7 @@ Find out more about me & feel free to connect with me here: <br>
 <h4>FAMILIAR TECHNOLOGY</h4>
     <div style={display: "flex"}>    
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50">
-        <img src="https://rb.gy/j0gieg" width="50">
+        <img src="https://rb.gy/zax8pw" width="50">
         <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="50">
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50">
         <img src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg" width="50">
