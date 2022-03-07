@@ -45,8 +45,8 @@ Find out more about me & feel free to connect with me here: <br>
         <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="50">
         <img src="https://iconape.com/wp-content/png_logo_vector/next-js-logo.png" width="50">
         <img src="https://miro.medium.com/max/400/1*YI1tt4kGzvea-v4dAhZ90w.png" width="50">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="50">
         <!-- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"> -->
     </div>
 
