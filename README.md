@@ -52,12 +52,11 @@ Find out more about me & feel free to connect with me here: <br>
     <div style={display: "flex"}>    
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50">
         <img src="https://rb.gy/zax8pw" width="50">
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="50">
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50">
-        <img src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg" width="50">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50">
-        <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="50">
-        <img src="https://iconape.com/wp-content/png_logo_vector/next-js-logo.png" width="50">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" width="50">
+        <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="50">
+        <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="50">
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="50">
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="50">
     </div>
 
 <!-- <table width="100">
