@@ -52,7 +52,7 @@ Find out more about me & feel free to connect with me here: <br>
     <div style={display: "flex"}>    
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50">
         <img src="https://rb.gy/zax8pw" width="50">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" width="50">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50">
         <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="50">
         <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="50">
         <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="50">
