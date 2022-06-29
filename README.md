@@ -8,7 +8,7 @@
 Find out more about me & feel free to connect with me here: <br>
 <a href="https://www.linkedin.com/in/pranjalshikhar"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="https://www.twitter.com/pranjalshikhar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href="https://www.medium.com/@pranjalshikhar/)](https://www.medium.com/@pranjalshikhar/"><img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v2.png"/></a>
+<a href="https://www.medium.com/@pranjalshikhar/)](https://www.medium.com/@pranjalshikhar/"><img src="https://www.pngkit.com/png/detail/48-485082_medium-comments-medium-icon-png-white.png" width="40" height="40"/></a>
 <a href="mailto:shikhar.pranjal3@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-login.png"/></a>
 <a href="https://discordapp.com/users/pollymorfism/"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
 <a href="https://www.behance.net/pranjalshikhar"><img src="https://img.icons8.com/fluency/48/000000/behance.png"/></a>
@@ -38,12 +38,12 @@ Find out more about me & feel free to connect with me here: <br>
     <div style={display: "flex"}>    
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50">
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="50">
+        <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" width="50">
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50">
         <img src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg" width="50">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50">
         <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="50">
-        <img src="https://iconape.com/wp-content/png_logo_vector/next-js-logo.png" width="50">
+        <img src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png" width="50">
         <img src="https://miro.medium.com/max/400/1*YI1tt4kGzvea-v4dAhZ90w.png" width="50">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="50">
     </div>
