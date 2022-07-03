@@ -1,5 +1,6 @@
 <!--<img src="https://github.com/pranjalshikhar/pranjalshikhar/blob/master/image.jpg" />-->
-<p><img src="https://raw.githubusercontent.com/pranjalshikhar/pranjalshikhar/master/assets/JS.gif"/></p>
+<!--<p><img src="https://raw.githubusercontent.com/pranjalshikhar/pranjalshikhar/master/assets/JS.gif"/></p>-->
+<p align="center"><img src="https://raw.githubusercontent.com/pranjalshikhar/pranjalshikhar/master/assets/Black%20Technology%20LinkedIn%20Banner.png"></p>
 
 ### Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=pranjalshikhar.pranjalshikhar)
 
@@ -66,7 +67,7 @@ Find out more about me & feel free to connect with me here: <br>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=pranjalshikhar&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite">
 </p>
-<p align="center"><img src="https://raw.githubusercontent.com/pranjalshikhar/pranjalshikhar/master/assets/image.jpg"></p>
+
 
 <br>
 
