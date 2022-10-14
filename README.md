@@ -23,7 +23,7 @@ Find out more about me & feel free to connect with me here: <br>
 - 💬 &nbsp; Ask me about anything! I am happy to help.
 - 👾 &nbsp; Fun fact: **I CAN DO THIS ALL DAY!**
 
-### Languages and Tools:
+<!-- ### Languages and Tools:
 
 <h4>PROGRAMMING</h4>
     <div style={display: "flex"}>    
@@ -58,7 +58,7 @@ Find out more about me & feel free to connect with me here: <br>
         <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="50">
         <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="50">
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="50">
-    </div>
+    </div> -->
 
 ### 📈 My GitHub Stats
 
