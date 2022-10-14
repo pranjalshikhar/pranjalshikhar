@@ -7,13 +7,12 @@
 <!--<img align="right" height="250" width="375" alt="" src="https://github.com/pranjalshikhar/pranjalshikhar/blob/master/coder.gif" />-->
 
 Find out more about me & feel free to connect with me here: <br>
-<a href="https://www.linkedin.com/in/pranjalshikhar"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://www.twitter.com/pranjalshikhar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href="https://www.medium.com/@pranjalshikhar/)](https://www.medium.com/@pranjalshikhar/"><img src="https://www.pngkit.com/png/detail/48-485082_medium-comments-medium-icon-png-white.png" width="40" height="40"/></a>
-<a href="mailto:shikhar.pranjal3@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-login.png"/></a>
-<a href="https://discordapp.com/users/pollymorfism/"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
-<a href="https://www.behance.net/pranjalshikhar"><img src="https://img.icons8.com/fluency/48/000000/behance.png"/></a>
-<a href="https://www.instagram.com/pranjal.fig/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+<a href="https://www.linkedin.com/in/pranjalshikhar"><img src="https://img.icons8.com/avantgarde/344/linkedin.png" height="50" width="50" /></a>
+<a href="https://www.twitter.com/pranjalshikhar"><img src="https://img.icons8.com/color-glass/344/twitter.png" height="50" width="50" /></a>
+<a href="https://www.medium.com/@pranjalshikhar/)](https://www.medium.com/@pranjalshikhar/"><img src="https://img.icons8.com/color-glass/344/medium-logo.png" height="50" width="50" /></a>
+<a href="mailto:shikhar.pranjal3@gmail.com"><img src="https://img.icons8.com/color-glass/344/gmail.png" height="50" width="50" /></a>
+<a href="https://www.behance.net/pranjalshikhar"><img src="https://img.icons8.com/color-glass/344/behance.png" height="50" width="50" /></a>
+<a href="https://www.instagram.com/pranjal.fig/"><img src="https://img.icons8.com/color-glass/344/instagram-new.png" height="50" width="50" /></a>
 
 ### Talking about Personal Stuffs:
 
