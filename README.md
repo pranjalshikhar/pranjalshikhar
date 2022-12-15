@@ -1,6 +1,6 @@
 <!--<img src="https://github.com/pranjalshikhar/pranjalshikhar/blob/master/image.jpg" />-->
 <!--<p><img src="https://raw.githubusercontent.com/pranjalshikhar/pranjalshikhar/master/assets/JS.gif"/></p>-->
-<p align="center"><img src="https://github.com/pranjalshikhar/pranjalshikhar/blob/master/assets/tanjiro.gif"></p>
+<p align="center"><img src="https://i.postimg.cc/qv8V80XT/tanjiro.gif"></p>
 
 ### Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=pranjalshikhar.pranjalshikhar)
 
