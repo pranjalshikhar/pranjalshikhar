@@ -1,5 +1,3 @@
-[![MasterHead](https://moosend.com/wp-content/uploads/2021/09/How-to-insert-a-gif-into-an-email.gif)](https://kanishbodhwani.io)
-
 <h1 align="center">Hi 👋, I'm Pranjal Shikhar</h1>
 <h3 align="center">A Passionate UI?UX designer </h3>
 <img align="right" alt="Coding" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" />
