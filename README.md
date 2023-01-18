@@ -1,74 +1,43 @@
-<!--<img src="https://github.com/pranjalshikhar/pranjalshikhar/blob/master/image.jpg" />-->
-<p><img src="https://raw.githubusercontent.com/pranjalshikhar/pranjalshikhar/master/assets/JS.gif"/></p>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pranjal Shikhar
+=======================================================================================================================================
 
+Developer // Designer // Weeb // Whatever ✨
+-------------------------------------------
+
+I'm a front-end engineer who develops modern, reactive, and user-friendly web applications using the latest technologies. 🚀 I believe a perfect blend of UI architecture is one, where the goals and needs are accounted for in an elegant, efficient, and robust design of the UI. ✨
+
+* 🌍  I'm based in Planet Vegeta
+* 🧠  I'm learning how to build apps more beautiful🔥
+* 🤝  I'm open to collaborating on UI Design & Frontend Projects
+* ⚡  I'm secretly a Kaizoku....but don't tell anyone.
+
+<a href="https://www.twitter.com/pranjalshikhar" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/pranjalshikhar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 ### Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=pranjalshikhar.pranjalshikhar)
 
-<!--<img align="right" height="250" width="375" alt="" src="https://github.com/pranjalshikhar/pranjalshikhar/blob/master/coder.gif" />-->
+### Skills
 
-Find out more about me & feel free to connect with me here: <br>
-<a href="https://www.linkedin.com/in/pranjalshikhar"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://www.twitter.com/pranjalshikhar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href="https://www.medium.com/@pranjalshikhar/)](https://www.medium.com/@pranjalshikhar/"><img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v2.png"/></a>
-<a href="mailto:shikhar.pranjal3@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-login.png"/></a>
-<a href="https://discordapp.com/users/pollymorfism/"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
-<a href="https://www.behance.net/pranjalshikhar"><img src="https://img.icons8.com/fluency/48/000000/behance.png"/></a>
-<a href="https://www.instagram.com/pranjal.fig/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
-
-### Talking about Personal Stuffs:
-
-- 🛠 &nbsp; I’m currently brushing my skills on **Full Stack Development and Data Structures**.
-- 🚀 &nbsp; I’m currently in UI/UX stuffs.
-- 👨🏻‍💻 &nbsp; Most of my designing projects are available on [Bēhance](https://www.behance.net/pranjalshikhar).
-- 💬 &nbsp; Ask me about anything! I am happy to help.
-- 👾 &nbsp; Fun fact: **I CAN DO THIS ALL DAY!**
-
-### Languages and Tools:
-
-<h4>PROGRAMMING</h4>
-    <div style={display: "flex"}>    
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="50">
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50">
-        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="50">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="50">
-        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="50">
-    </div>
-
-<h4>TECHNOLOGY STACK</h4>
-    <div style={display: "flex"}>    
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50">
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="50">
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50">
-        <img src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg" width="50">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50">
-        <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="50">
-        <img src="https://iconape.com/wp-content/png_logo_vector/next-js-logo.png" width="50">
-        <img src="https://miro.medium.com/max/400/1*YI1tt4kGzvea-v4dAhZ90w.png" width="50">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="50">
-    </div>
-
-<h4>FAMILIAR TECHNOLOGY</h4>
-    <div style={display: "flex"}>    
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50">
-        <img src="https://rb.gy/zax8pw" width="50">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" width="50">
-        <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="50">
-        <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="50">
-        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="50">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="50">
-    </div>
-
-### 📈 My GitHub Stats
-
-<br>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=pranjalshikhar&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-<p align="center"><img src="https://raw.githubusercontent.com/pranjalshikhar/pranjalshikhar/master/assets/image.jpg"></p>
 
-<br>
 
-<p align="center"><b>If you liked my work, don’t forget to ⭐ star the repo to show your support.</b></p>
-<!-- <img align="center" height="350" width="350" alt="" src="https://www.freecodecamp.org/news/content/images/size/w2000/2019/07/goku-learning-react-2.png" /> -->
+### Socials
+
+<p align="left"> <a href="https://www.behance.com/pranjalshikhar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/pranjalshikhar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/pranjal.fig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pranjalshikhar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/pranjalshikhar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/pranjalshikhar"><img src="https://github-readme-stats.vercel.app/api?username=pranjalshikhar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pranjalshikhar's GitHub stats" /></a>
