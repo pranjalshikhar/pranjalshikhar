@@ -14,7 +14,7 @@ I'm a front-end engineer who develops modern, reactive, and user-friendly web ap
 <a href="https://www.twitter.com/pranjalshikhar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/pranjalshikhar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-### Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=pranjalshikhar.pranjalshikhar)
+
 
 ### Skills
 
