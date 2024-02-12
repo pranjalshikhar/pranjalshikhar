@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer // Designer // Weeb // Whatever ✨
 -------------------------------------------
 
-I'm a front-end engineer who develops modern, reactive, and user-friendly web applications using the latest technologies. 🚀 I believe a perfect blend of UI architecture is one, where the goals and needs are accounted for in an elegant, efficient, and robust design of the UI. ✨
+Front-end engineer who develops modern, reactive, and user-friendly web applications using the latest technologies. 🚀 I believe a perfect blend of UI architecture is one, where the goals and needs are accounted for in an elegant, efficient, and robust design of the UI. ✨
 
 * 🌍  I'm based in Planet Vegeta
 * 🧠  I'm learning how to build apps more beautiful🔥
